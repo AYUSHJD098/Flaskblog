@@ -2,8 +2,9 @@ from flask import Blueprint
 from PIL import Image
 from flaskblog.models import User, Post
 from flaskblog.users.forms import RegistrationForm, LoginForm, UpdateForm,  RequestResetForm, ResetPasswordForm
-from flask import render_template, url_for, flash, redirect, request , abort
-from flaskblog import app, db, bcrypt, mail
+from flask import render_template, url_for, flash, redirect, request , abort, current_app
+
+from flaskblog import db, bcrypt, mail
 from flask_login import login_user, current_user, logout_user, login_required
 import secrets
 import os
