@@ -1,4 +1,7 @@
-# Flaskblog
+# 𝔽𝕝𝕒𝕤𝕜𝕓𝕝𝕠𝕘♡
 
-This a application blog for flask 
-#test
+This application was created only for test.
+
+
+#ℂ𝕣𝕖𝕕𝕚𝕥𝕤-
+           𝘼𝙮𝙪𝙨𝙝 𝙅𝙙
